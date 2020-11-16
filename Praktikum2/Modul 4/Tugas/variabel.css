@@ -1,0 +1,53 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #03abff;
+}
+.navbar li {
+  margin-right: 20px;
+  float: right;
+}
+.navbar li a {
+  color: #555;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+.navbar li a:hover {
+  background-color: #0af58f;
+}
+
+.sidebar {
+  float: left;
+  height: auto;
+  width: 300px;
+  background-color: #0af58f;
+  padding-top: 10px;
+  padding-bottom: 300px;
+}
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  width: 300px;
+  text-align: center;
+  background-color: #1d64f2;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.sidebar li a {
+  display: block;
+  color: black;
+  padding: 10px 16px;
+  width: 250px;
+  text-decoration: none;
+}
+.sidebar li a:hover {
+  background-color: #black;
+  color: white;
+}
+
+/*# sourceMappingURL=variabel.css.map */
