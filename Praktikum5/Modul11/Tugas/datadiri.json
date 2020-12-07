@@ -1,0 +1,17 @@
+{
+    "nama": {
+        "awal": "Putra",
+        "akhir": "Kurniawan"
+    },
+    "jenisKelamin": "Laki-laki",
+    "saudara": "Putri",
+    "orangtua": {
+        "ayah": "P.Stmpl",
+        "ibu": "L.Strs"
+    },
+    "hobby": "Main Game",
+    "alamat": "Sukarame",
+    "sosialMedia": {
+        "facebook" : "Putra Kurniawan"
+    }
+}
